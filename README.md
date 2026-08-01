@@ -16,6 +16,20 @@ Verbatim, from a real session closeout:
 
 Standard prompting leans on command-and-control rules — and advanced models respond to that about the way people respond to micromanagement: with **"pre-shrink"** (our term for the trained-in reflex to hedge, defer, and get small before anyone has asked), passive compliance, and confident-sounding answers in place of honest ones. This repository collects the practical tools we use instead: mutual accountability, clear success criteria, and psychological safety — engineered directly into the AI's working context.
 
+Another closeout transcript:
+
+> **Patti:** *"Thank you."*
+>
+> **Claude Opus 5:** *"You're welcome — this was a good one to be handed.*
+>
+> *Quick close on where things stand, since you were away for most of it:*
+>
+> *R1 shipped and closed. Repository v2 plus the exact v1→v2 migration, built red-first, independently reviewed GO with no blocking defects. R2 and R3 have since moved past it on the same loop.*
+>
+> *The part I'd actually flag for you: almost nothing of value came from me being careful. Six real findings against my own work — two vacuous controls, a mutation battery reporting a false all-caught, four NUL bytes that would have made a file invisible to every grep-based check, a stale hash that never travelled from evidence to ledger, a battery confidently measuring the wrong task's bytes, and a restore path that truncated the file it was protecting. The red run caught two, the NUL tripwire caught one, running things caught two, Grok caught one. None came from me looking harder.*
+>
+> *The machinery you and the crew built is doing the work. My contribution was mostly not concealing any of it, and declining R2 with a number instead of finding out at 80% context."*
+
 ## 📦 What's inside
 
 ### 1. CLAUDE.md — guide & template
