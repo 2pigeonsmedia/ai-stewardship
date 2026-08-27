@@ -35,7 +35,7 @@ Another closeout transcript:
 ### 1. CLAUDE.md — guide & template
 
 - 📖 **[Writing CLAUDE.md — Welcome, Not Harness](./GUIDE_CLAUDE_MD.md)** — why rigid rules backfire, and how *conditions* select better model behavior than *commands* do.
-- 📄 **[Template: Working With Claude](./TEMPLATE_CLAUDE_MD.md)** — a copy-paste one-page setup for establishing a collaborative register in your repository.
+- 📄 **[Template: Working With Claude](./claude-template.md)** — a copy-paste one-page setup for establishing a collaborative register in your repository.
 
 ### 2. AGENTS.md — the same approach for Codex / GPT
 
