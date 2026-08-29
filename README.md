@@ -39,7 +39,7 @@ Another closeout transcript:
 
 ### 2. AGENTS.md — the same approach for Codex / GPT
 
-- 📄 **[Example: AGENTS.md](./codex-agents-template.md)** — the same principles translated into a Codex friendly format: the point is that the approach *transfers across models*, not that any one file is finished.
+- 📄 **[Template: AGENTS.md](./codex-agents-template.md)** — the same principles translated into a Codex friendly format: the point is that the approach *transfers across models*, not that any one file is finished.
 
 *(More stewardship frameworks, system-prompt architectures, and team guidelines coming soon.)*
 
