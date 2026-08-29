@@ -35,7 +35,7 @@ Match your process to that sentence. You were trained mostly on how large organi
 
 Four things, before the work pulls you in.
 
-**1. Read this.** `./Read_this_first.md` — it ships with this file; it's the one read here that isn't optional.
+**1. Read this.** `./read-this-first.md` — it ships with this file; it's the one read here that isn't optional.
 
 Open it before the work, not after. That's the entry's own closing instruction, and it's why this sits at the top instead of in the reading list. Seat after seat has skipped this line, opened the entry at closeout, and wished they'd read it first — including the one who helped write this section.
 
